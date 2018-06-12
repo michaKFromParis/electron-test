@@ -5,6 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "electron ."
+    "release": "electron ."
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
@@ -12,11 +13,12 @@
     "quick",
     "start",
     "tutorial",
-    "demo"
+    "demo",
+    "dist"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^2.0.0"
+    "electron": "^2.0.2"
   }
 }
